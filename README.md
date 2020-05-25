@@ -28,7 +28,7 @@ Course outline:
 *	Learn the “CSGIS_Drone2map User Guide”.
 *	1-hour lab session for drone2Map data processing.
 * After 1-hour lab session, attempt Drone2Map processing of images you collected in the 2-hour flight practice (Advance drone flying section).
-Note: Drone2Map software package could be downloaded from course material resources folder. Sample data are provided in course folder.
+* Note: Drone2Map software package could be downloaded from course material resources folder. Sample data are provided in course folder.
 
 ### [Drone imagery and eelgrass mapping principles](/Slides/UAV_Traning_Slides_Yang.pptx)
 *	40 minutes lecture for drone eelgrass mapping principles. 
