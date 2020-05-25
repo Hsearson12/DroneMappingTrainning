@@ -1,7 +1,7 @@
 # Drone Mapping Training Course for Coastal Management and Seagrass Conservation 
 ### [Citizen Science GIS](http://www.citizensciencegis.org), University of Central Florida
 ## Course description
-This training course is design to teach our partners in the NSF eelgrass drone mapping project. The UCF portion of the project uses Unmanned Aerial Systems (UAS), i.e. drones, to measure eelgrass meadow extent, patchiness, and dynamics through time. Drone imagery will be collected at least annually in coordination with in situ sampling which will also be used to validate the imagery by ground-truthing across a range of points within each meadow. We create this training course for our eelgrass mapping friends to learn how to fly drone for collecting data, and perform the data analysis in Geographical Information Science (GIS) method. This training course contains topics of flying DJI drones, Preflight & Planning, FAA part 107 examination, Drone2map user guide, and ArcGIS based drone image analyses.
+This training course is designed to teach our partners in the NSF eelgrass drone mapping project. The UCF portion of the project uses Unmanned Aerial Systems (UAS), i.e. drones, to measure eelgrass meadow extent, patchiness, and dynamics through time. Drone imagery will be collected at least annually in coordination with in situ sampling which will also be used to validate the imagery by ground-truthing across a range of points within each meadow. We create this training course for our eelgrass mapping friends to learn how to fly drone for collecting data, and perform the data analysis in Geographical Information Science (GIS) method. This training course contains topics of flying DJI drones, Preflight & Planning, FAA part 107 examination, Drone2map user guide, and ArcGIS based drone image analyses.
 
 ## Course Objectives   
 1.	Basic knowledge of Drone, setup and maintenance. 
@@ -27,6 +27,7 @@ Course outline:
 
 *	Learn the “CSGIS_Drone2map User Guide”.
 *	1-hour lab session for drone2Map data processing.
+* After 1-hour lab session, attempt Drone2Map processing of images you collected in the 2-hour flight practice (Advance drone flying section).
 Note: Drone2Map software package could be downloaded from course material resources folder. Sample data are provided in course folder.
 
 ### [Drone imagery and eelgrass mapping principles](/Slides/UAV_Traning_Slides_Yang.pptx)
@@ -48,4 +49,5 @@ Note: ArcMap software package could be downloaded from course material resources
 * [Citizen Science GIS Drone mapping for Bodega Bay eelgrass sites](http://www.citizensciencegis.org/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis/)
 * [Citizen Science GIS Drone mapping for San Diego sites](http://www.citizensciencegis.org/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu/)
 * [Citizen Science GIS Drone mapping for Alaska sites](http://www.citizensciencegis.org/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier/)
+* [Four Project Templates in Drone2Map](http://www.citizensciencegis.org/drone2map_template/)
 
